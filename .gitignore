@@ -137,3 +137,9 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Local storage for various tools
+storage/
+
+# Local Utility files
+utility/epa/
